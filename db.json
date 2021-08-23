@@ -1,0 +1,29 @@
+{
+    "authorizeOutputDto": {
+      "userId": 1,
+      "loginToken": "hfguyrefjsdbjdshi",
+      "userName": "John David",
+      "roleId": 4,
+      "roleName": "Customer",
+      "profileName": "image-url",
+      "departmentId": 1,
+      "companyId": 1,
+      "customerDeptPriviledgeMapping": [
+        {
+          "priviledgeId": 1,
+          "priviledgeName": "View timesheet",
+          "isActive": true
+        },
+        {
+          "priviledgeId": 2,
+          "priviledgeName": "Approve timesheet",
+          "isActive": true
+        },
+        {
+          "priviledgeId": 3,
+          "priviledgeName": "Raise service request",
+          "isActive": true
+        }
+      ]
+    }
+  }
