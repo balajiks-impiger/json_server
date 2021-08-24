@@ -25,11 +25,8 @@
           "isActive": true
         }
       ]
-    }
-  }
-
-
-{
+    },
+    {
     "serviceListResponse": [
       {
         "serviceRequestId": 1,
@@ -88,4 +85,5 @@
         "statusName": "Acknowledged"
       }
     ]
+  }
   }
