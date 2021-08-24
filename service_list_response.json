@@ -1,0 +1,60 @@
+{
+    "serviceListResponse": [
+      {
+        "serviceRequestId": 1,
+        "serviceRequestNumber": "OR/SR/2021/001",
+        "serviceTypeId": 1,
+        "serviceTypeName": "Breakdown",
+        "serviceRequestDate": "2021-08-18 00:00:00",
+        "contractNumber": "5303d74",
+        "plantCode": "56682",
+        "natureOfComplaint": "issue description",
+        "userId": "96",
+        "statusId": 4,
+        "statusName": "Pending Acknowledged"
+      },
+      {
+        "serviceListResponse": [
+          {
+            "serviceRequestId": 1,
+            "serviceRequestNumber": "OR/SR/2021/001",
+            "serviceTypeId": 1,
+            "serviceTypeName": "Breakdown",
+            "serviceRequestDate": "2021-08-18 00:00:00",
+            "contractNumber": "5303d74",
+            "plantCode": "56682",
+            "natureOfComplaint": "issue description",
+            "userId": "96",
+            "statusId": 4,
+            "statusName": "Pending Acknowledged"
+          },
+          {
+            "serviceRequestId": 2,
+            "serviceRequestNumber": "OR/SR/2021/002",
+            "serviceTypeId": 2,
+            "serviceTypeName": "Concern",
+            "serviceRequestDate": "2021-08-18 00:00:00",
+            "contractNumber": "5303d04",
+            "plantCode": "56689",
+            "natureOfComplaint": "issue description",
+            "userId": "96",
+            "statusId": 5,
+            "statusName": "Acknowledged"
+          }
+        ]
+      },
+      {
+        "serviceRequestId": 2,
+        "serviceRequestNumber": "OR/SR/2021/002",
+        "serviceTypeId": 2,
+        "serviceTypeName": "Concern",
+        "serviceRequestDate": "2021-08-18 00:00:00",
+        "contractNumber": "5303d04",
+        "plantCode": "56689",
+        "natureOfComplaint": "issue description",
+        "userId": "96",
+        "statusId": 5,
+        "statusName": "Acknowledged"
+      }
+    ]
+  }
