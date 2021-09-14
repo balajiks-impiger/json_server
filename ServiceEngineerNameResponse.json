@@ -1,26 +1,24 @@
-
-
 {
-"serviceEngineerNameResponse": [
-{
-"id": 1,
-"engineerName": "Dasan" 
-},
-{
-"id": 2,
-"engineerName": "Thomas"
-},
-{
-"id": 3,
-"engineerName": "Hardy"
-},
-{
-"id": 4,
-"engineerName": "Ramasamy"
-},
-{
-"id": 5,
-"engineerName": "Thomas Hardy"
-}
-]
+  "serviceEngineerNameResponse": [
+    {
+      "id": 1,
+      "engineerName": "Dasan"
+    },
+    {
+      "id": 2,
+      "engineerName": "Thomas"
+    },
+    {
+      "id": 3,
+      "engineerName": "Hardy"
+    },
+    {
+      "id": 4,
+      "engineerName": "Ramasamy"
+    },
+    {
+      "id": 5,
+      "engineerName": "Thomas Hardy"
+    }
+  ]
 }
